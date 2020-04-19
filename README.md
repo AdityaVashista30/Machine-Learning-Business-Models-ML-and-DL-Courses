@@ -3,6 +3,7 @@ Various ML models and their implementation, along with dimensionality reduction 
 The sample dataset worked upon are provided in the sub-folders itself
 For CNN model, data set are compressed in a zip file where test and train pictures are already sepreated in different folders of same name.
 Types of models created for business purposes are:
+
                A)Regression Models:
                     i. Simple Linear Regression
                     ii. Multiple Linear Regression
