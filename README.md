@@ -38,10 +38,12 @@ Types of models created for business purposes are:
                
               
 Types of Dimensionality Reduction Techniques Used/Implemented:
+
                A)PCA
                B)LDA
                C)Kernel PCA
 
 Types of Model Selection Techniques Used/Implemented:
+
                A)k-Fold Cross Validation
                B)Grid Search
