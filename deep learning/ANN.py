@@ -12,7 +12,7 @@ from tensorflow import keras
 
  
 dataset=pd.read_csv('Churn_Modelling.csv')
-x = dataset.iloc[:, 3:14].values
+x = dataset.iloc[:, 3:13].values
 y = dataset.iloc[:,-1].values
 
 #encoding data of Gender
