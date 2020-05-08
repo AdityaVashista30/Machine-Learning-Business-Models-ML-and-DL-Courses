@@ -33,6 +33,10 @@ Types of models created for business purposes are:
                F)Deep Learning:
                     i. Artificial Neural Networks (ANN)
                     ii. Convulational Neural Networks (CNN)
+                    iii. Recurrent Neural Networks (RNN)
+                    iv. Self Orqanizing Maps (OSM)
+                    v. Reduced Boltzman Machine (RBM)
+                    vi. AutoEncoders
                
                G)XGBoost
                
