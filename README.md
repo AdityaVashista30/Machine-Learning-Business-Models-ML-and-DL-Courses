@@ -1,8 +1,5 @@
 # Machine-Learning-Business-Models-A-Z-ML-UdemyCourse
-Various ML models and their implementation, along with dimensionality reduction and finding optimized and best models
-The sample dataset worked upon are provided in the sub-folders itself
-For CNN model, data set are compressed in a zip file where test and train pictures are already sepreated in different folders of same name.
-Types of models created for business purposes are:
+Various ML models and their implementation, along with dimensionality reduction and finding optimized and best models The sample dataset worked upon are provided in the sub-folders itself For CNN model, data set are compressed in a zip file where the test and train pictures are already separated in different folders of the same name. Types of models created for business purposes are:
 
                A)Regression Models:
                     i. Simple Linear Regression
